@@ -2,7 +2,9 @@ header {
     overflow: hidden;
     background-color: #1F1F1F;
     filter: drop-shadow(4px 4px 16px rgba(0, 0, 0, 0.20));
+    transition: 0.2s;
 }
+
 .topnav {
 
     max-width: 1360px;
@@ -21,17 +23,17 @@ header {
 }
 
 .topnav a:hover {
-    border-bottom: 2px solid #4bddbc;
-    border-image: linear-gradient(to left top, #4bddbc, #07f287);
+    border-bottom: 2px solid #35B6FF;
+    border-image: linear-gradient(to left top, #35B6FF, #4ce4dc);
     border-image-slice: 1;
     transition: 0.2s;
 }
 
 .topnav a.active {
-    border-bottom: 2px solid #4bddbc;
-    border-image: linear-gradient(to left top, #4bddbc, #07f287);
+    border-bottom: 2px solid #35B6FF;
+    border-image: linear-gradient(to left top, #35B6FF, #4ce4dc);
     border-image-slice: 1;
-    color: #4bddbc;
+    color: #35B6FF;
     
 }
 .topnav a.logo {
