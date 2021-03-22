@@ -2,12 +2,12 @@
     width: 420px;
     /* width: 28.65%; */
     float: right;
+    filter: drop-shadow(4px 4px 16px rgba(0, 0, 0, 0.20));
 }
 .right-menu-b {
-    background-color: #06070d;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    background-color: #1F1F1F;
     padding-left: 25px;
-    line-height: 12px;
+    line-height: 35px;
 }
 .right-menu-b a {
     color: white;

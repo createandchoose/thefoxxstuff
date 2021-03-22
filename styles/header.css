@@ -1,8 +1,12 @@
-.topnav {
+header {
     overflow: hidden;
-    padding-left: 200px;
-    padding-right: 200px;
-    background-color: #06070d;
+    background-color: #1F1F1F;
+    filter: drop-shadow(4px 4px 16px rgba(0, 0, 0, 0.20));
+}
+.topnav {
+
+    max-width: 1360px;
+    margin: auto;
 }
 
 .topnav a {
