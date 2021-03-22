@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'opensans';
+    src: url("OpenSans-Regular.ttf");
+}
+
+body {
+    margin:0;
+    color: #ffffff;
+    background-color: #000000;
+    background-image: url("pattern%20cats.jpg");
+    font-family: opensans;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.container-last-news {
+    background-color: rgba(0, 0, 0, 0.4);
+    width: 1500px;
+    margin: 20px auto;
+}
+
+.header-box {
+    background-color: black;
+    height: 50px;
+    padding-left: 50px;
+    line-height: 47.5px;
+    font-size: 24px;
+    box-shadow: 4px 4px 20px rgba(0, 0, 0, 0.25);
+}
+
+.hello {
+    background-color: rgb(0, 0, 0);
+    height: 930px;
+    width: 100%;
+    overflow: hidden;
+
+}
