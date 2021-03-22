@@ -37,5 +37,15 @@ a {
     height: 930px;
     width: 100%;
     overflow: hidden;
-
+}
+.post-title {
+    font-size: 21px;
+}
+.post-text {
+    color: gray;
+}
+.content-post {
+    background: #1F1F1F;
+    height: 100%;
+    filter: drop-shadow(4px 4px 16px rgba(0, 0, 0, 0.20));
 }
