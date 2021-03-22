@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'opensans';
-    src: url("OpenSans-Regular.ttf");
+    src: url(/fonts/OpenSans/OpenSans-Regular.ttf);
 }
 
 body {
     margin:0;
     color: #ffffff;
-    background-color: #000000;
-    background-image: url("pattern%20cats.jpg");
+    background-color: #020305;
+    /* background-image: url(/images/pattern\ cats.jpg); */
     font-family: opensans;
 }
 

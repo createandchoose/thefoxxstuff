@@ -1,0 +1,38 @@
+.topnav {
+    overflow: hidden;
+    padding-left: 200px;
+    padding-right: 200px;
+    background-color: #06070d;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 14.5px 16px;
+    font-size: 14px;
+    border-bottom: 2px solid transparent;
+    transition: 0.2s;
+}
+
+.topnav a:hover {
+    border-bottom: 2px solid #4bddbc;
+    border-image: linear-gradient(to left top, #4bddbc, #07f287);
+    border-image-slice: 1;
+    transition: 0.2s;
+}
+
+.topnav a.active {
+    border-bottom: 2px solid #4bddbc;
+    border-image: linear-gradient(to left top, #4bddbc, #07f287);
+    border-image-slice: 1;
+    color: #4bddbc;
+    
+}
+.topnav a.logo {
+    border-bottom: 0px solid transparent;
+}
+.topnav a.logo:hover {
+    border-bottom: 0px solid transparent;
+}

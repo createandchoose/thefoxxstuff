@@ -1,0 +1,87 @@
+.rbox {
+    width: 420px;
+    /* width: 28.65%; */
+    float: right;
+}
+.right-menu-b {
+    background-color: #06070d;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    padding-left: 25px;
+    line-height: 12px;
+}
+.right-menu-b a {
+    color: white;
+}
+.right-menu-b a:hover {
+    color: #35B6FF;
+    transition: 0.2s;
+}
+.right-menu {
+    background-color: rgb(0, 0, 0, 0.7);
+    color: white;
+    padding-left: 25px;
+    line-height: 35px;
+}
+.right-menu a {
+    color: rgb(180, 180, 180);
+    transition: 0.2s;
+}
+.right-menu a:hover {
+    color: rgb(255, 255, 255);
+    transition: 0.20s;
+}
+.right-menu-br20px {
+    line-height: 20px;
+} 
+/* .razdeli li {
+    display: block;
+    position: relative;
+    height: 115px;
+    width: 100%;
+  }
+.razdeli  li a {
+    color: #ffffff;
+    background: url(/images/com.png) 0px 0px;
+    height: 80px;
+    width: 100%;
+    padding: 30px 5px 5px 215px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+  } */
+.categories {
+    background-color: rgb(0, 0, 0);
+}
+.categorie {
+    display: block;
+    position: relative;
+    height: 80px;
+    width: 420px;
+    transition: 0.2s;
+}
+.categorie:hover {
+    opacity: 0.8;
+    transition: 0.1s;
+}
+.categorie-border v{
+    color: #ffffff;
+    font-size: 14px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    padding: 30px 0px 0px 0px;
+}
+.categorie-border {
+    background-color: rgb(0, 0, 0, 0.8);
+    float: right;
+    height: 80px;
+    width: 100px;
+}
+#games {
+    /* background: url(/images/games.png); */
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.3) 100%), url(/images/games.png);
+}
+#design {
+    /* background: url(/images/design.png); */
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.3) 100%), url(/images/design.png);
+}

@@ -1,0 +1,179 @@
+<div class="container">
+    <div class="header-box">ПОСЛЕДНИЕ ОБНОВЛЕНИЕ</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h2>Responsive "Meet The Team" Section</h2>
+<p>Resize the browser window to see the effect.</p>
+<br>
+
+
+
+        <p><button class="button">More Info</button></p>
+
+            <!-- <a href="#contact"><i class="fa fa-shopping-basket" aria-hidden="true"></i> MARCH</a> -->
+
+
+
+<div class="container-last-news">
+        <div class="header-box"> <i class="fa fa-newspaper-o" aria-hidden="true"></i> ПОСЛЕДНИЕ ОБНОВЛЕНИЕ</div>
+    <div class="row">
+        <div class="box">
+            <div class="img" style="background-image: url(https://f4.bcbits.com/img/a2992344226_16.jpg);"></div>
+            <div class="head">
+                <a href="/post.html">
+                    THEFOXXSTUFF - ASTRAL SUMMER
+                </a>
+            </div>
+            <div class="info">
+                <p>
+                    Atmospheric music from the coldest point in the world
+                </p>
+                <div class="info-footer">
+                    <div style="float: left;">22 мая 2020 в 15:17</div>
+                    <div style="float: right;">Тег: <a href="#">admin</a></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="img" style="background-image: url(https://f4.bcbits.com/img/a2992344226_16.jpg);"></div>
+            <div class="head">
+                <a href="/post.html">
+                    THEFOXXSTUFF - ASTRAL SUMMER
+                </a>
+            </div>
+            <div class="info">
+                <p>
+                    Atmospheric music from the coldest point in the world
+                </p>
+                <div class="info-footer">
+                    <div style="float: left;">22 мая 2020 в 15:17</div>
+                    <div style="float: right;">Тег: <a href="#">admin</a></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="img" style="background-image: url(https://f4.bcbits.com/img/a2992344226_16.jpg);"></div>
+            <div class="head">
+                <a href="/post.html">
+                    THEFOXXSTUFF - ASTRAL SUMMER
+                </a>
+            </div>
+            <div class="info">
+                <p>
+                    Atmospheric music from the coldest point in the world
+                </p>
+                <div class="info-footer">
+                    <div style="float: left;">22 мая 2020 в 15:17</div>
+                    <div style="float: right;">Тег: <a href="#">admin</a></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="img" style="background-image: url(https://f4.bcbits.com/img/a2992344226_16.jpg);"></div>
+            <div class="head">
+                <a href="/post.html">
+                    THEFOXXSTUFF - ASTRAL SUMMER
+                </a>
+            </div>
+            <div class="info">
+                <p>
+                    Atmospheric music from the coldest point in the world
+                </p>
+                <div class="info-footer">
+                    <div style="float: left;">22 мая 2020 в 15:17</div>
+                    <div style="float: right;">Тег: <a href="#">admin</a></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+<!-- <div class="hello">
+<img src="https://krot.info/uploads/posts/2020-01/1579707260_27-p-krasivie-igrovie-foni-103.jpg">
+</div> -->
+
+
+
+        <div class="right-menu-b">
+            <a href="#">LOasdasdL</a>
+        </div>
+        <div class="right-menu">
+            <a title="" href="">Other Stuff</a>
+        </div>
+
+
+
+/* .box{
+  height: 100%;
+  width: 351.25px;
+  background-color: #2b2b2b;
+  display: inline-block;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+.info {
+  padding: 15px;
+  overflow: hidden;
+}
+.info p {
+  min-height: 120px;
+}
+.info-footer {
+  height: 20px;
+}
+.info-footer a {
+  color: gray;
+  transition: 0.2s;
+}
+.info-footer a:hover {
+  color: #35B6FF;
+  transition: 0.2s;
+}
+.head {
+  padding: 10px 15px;
+  background-color: #1f1f1f;
+}
+.head a {
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+}
+.head a:hover {
+  color: #35B6FF;
+  transition: 0.2s;
+}
+.img {
+  height: 240px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+} */

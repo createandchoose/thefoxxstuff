@@ -5,7 +5,8 @@
   box-shadow: 0px 0px 10px rgba(0,0,0,0.5);
 }
 .lbox {
-  width: 1060px;
+  /* width: 1060px; */
+  width: 70.67%;
   float: left;
   overflow: hidden;
 }
